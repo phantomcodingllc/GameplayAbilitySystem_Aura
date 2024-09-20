@@ -1,4 +1,4 @@
-// Copyright PhantomCoding
+// Copyright PhantomCodingLLC
 
 
 #include "AuraCharacterBase.h"

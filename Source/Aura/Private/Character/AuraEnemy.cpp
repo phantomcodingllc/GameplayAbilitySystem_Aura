@@ -7,7 +7,7 @@
 #include "AbilitySystem/AuraAbilitySystemLibrary.h"
 #include "AbilitySystem/AuraAttributeSet.h"
 #include "Aura/Aura.h"
-#include "UI/Widget/AuraUserWidget.h" //noticed it was in video 136 but I did not have it. 
+#include "UI/Widget/AuraUserWidget.h" //noticed it was in video 136, but I did not have it. 
 #include "Components/WidgetComponent.h"
 #include "AuraGameplayTags.h"
 #include "AI/AuraAIController.h"

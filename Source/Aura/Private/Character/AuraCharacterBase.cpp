@@ -68,6 +68,11 @@ void AAuraCharacterBase::IncrementMinionCount_Implementation(int32 IncrementAmou
 	MinionCount += IncrementAmount;
 }
 
+ECharacterClass AAuraCharacterBase::GetCharacterClass_Implementation()
+{
+	return CharacterClass;
+}
+
 void AAuraCharacterBase::Die()
 {
 	Weapon->DetachFromComponent(FDetachmentTransformRules(EDetachmentRule::KeepWorld, true));
